@@ -1,0 +1,9 @@
+﻿tts-env/
+__pycache__/
+*.pyc
+.cache/
+*.wav
+!reference_voice.wav
+*conversation_history.json
+companion_memory.json
+alerts_log.json
